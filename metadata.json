@@ -1,0 +1,8 @@
+{
+  "name": "MilkSafe 3D Lab",
+  "description": "Interactive web-based 3D laboratory simulation for engineering and food-safety students to detect adulterants in milk samples through realistic qualitative testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
